@@ -1,0 +1,8 @@
+---
+title: "Randy's Work and Notes"
+author: "Randy Swaty"
+format: html
+---
+
+
+Working through vignettes https://syncrosim.github.io/rsyncrosim/articles/a01_rsyncrosim_vignette_basic.html
