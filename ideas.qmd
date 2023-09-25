@@ -1,0 +1,10 @@
+---
+title: "Ideas"
+format: html
+---
+
+
+## Ideas
+
+* connect rsycnrosim outputs to https://r-spatialecology.github.io/landscapemetrics/
+

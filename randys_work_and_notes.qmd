@@ -1,0 +1,5 @@
+---
+title: "Randy's Work and Notes"
+author: "Randy Swaty"
+format: html
+---
