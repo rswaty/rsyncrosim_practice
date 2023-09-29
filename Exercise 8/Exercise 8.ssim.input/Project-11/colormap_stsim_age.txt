@@ -1,0 +1,6 @@
+# Syncrosim Generated Age Group Color Map (QGIS-compatible),,,,,
+INTERPOLATION:DISCRETE
+20,128,255,128,255,0-20
+40,0,128,128,255,21-40
+60,0,128,0,255,41-60
+80,128,0,0,255,61-80
