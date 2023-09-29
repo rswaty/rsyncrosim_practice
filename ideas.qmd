@@ -10,3 +10,6 @@ format: html
 
 test
 
+## links
+
+https://happygitwithr.com/
