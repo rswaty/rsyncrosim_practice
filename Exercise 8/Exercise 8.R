@@ -60,7 +60,7 @@ list.files()
 myLibrary <- ssimLibrary("Exercise 8.ssim")
 
 
-yu# Load Project Definitions ****************************
+# Load Project Definitions ****************************
 
 # If this command returns no projects, SyncroSim created a new blank library - change your working folder above and try again
 project(myLibrary)     # If you get an error you may need to replace with: rsyncrosim::project(myLibrary)
